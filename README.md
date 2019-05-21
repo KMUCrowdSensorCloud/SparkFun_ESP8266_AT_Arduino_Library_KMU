@@ -1,5 +1,9 @@
-SparkFun ESP8266 AT Arduino Library
+SparkFun ESP8266 AT Arduino Library KMU
 ========================================
+
+* 국민대 버전 수정
+* server코드 
+
 
 ![SparkFun ESP8266 WiFi Shield](https://cdn.sparkfun.com//assets/parts/1/0/5/3/8/13287-01.jpg)
 
